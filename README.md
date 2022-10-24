@@ -7,6 +7,6 @@
 - :volleyball:*Sou jogadora de vôlei*
 - :headphones: **Gosto muito de escutar música**
 - :microphone: *Minha cantora favorita é a Billie Eilish*
-- :woman_dancing:*Uns dos meus passatempos favoritos é dançar*
+- :woman_dancing:*Uns dos meus passatempos favorito é dançar*
 - :bento:*Minha comida favorita é comida japonesa
 
